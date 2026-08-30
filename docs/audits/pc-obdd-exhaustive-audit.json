@@ -1,0 +1,13 @@
+{
+  "theorem": "six-clause ITE encoding of a reduced OBDD is propagation complete on input assignments",
+  "ite_truth_table_exact": true,
+  "functions_tested": 278,
+  "partial_assignment_cases_tested": 7070,
+  "constant_restriction_cases_tested": 3888,
+  "failures": [],
+  "reference_seven_point_bdd_nonterminal_nodes": 11536,
+  "reference_seven_point_bdd_clauses": 52993,
+  "prior_spread_sample_width6_primes_checked": 10000,
+  "prior_spread_sample_failures": 0,
+  "consequence": "all local implicates at every width are RUP under the PC-OBDD extension; width-by-width prime enumeration is no longer a completeness obligation"
+}

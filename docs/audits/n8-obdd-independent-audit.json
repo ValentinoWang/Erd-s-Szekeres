@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "signotope_models": 1232944,
+  "allowed_no_convex7_models": 1221504,
+  "excluded_models": 11440,
+  "obdd_nonterminal_nodes": 239976,
+  "obdd_root": 239977,
+  "obdd_accepted_count": 1221504,
+  "allowed_rejected": 0,
+  "excluded_accepted": 0,
+  "single_flip_outside_relation_checked": 58541600,
+  "single_flip_false_accepts": 0,
+  "ite_truth_table_cases": 16
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "states_n8_models": 1221504,
+  "overlap_states_n7": 24666,
+  "candidate_pairs": 64460192,
+  "signotope_compatible_transitions_before_convex_filter": 60063878,
+  "exact_n9_signotopes_before_convex_filter": 109184802,
+  "bridge_assignments_removed_by_convex_filter": 1116672,
+  "compatible_transitions": 59441346,
+  "exact_n9_no_convex7_models": 108068130,
+  "forward_reachable_from_0": 1221504,
+  "reverse_reachable_to_0": 1221504,
+  "strongly_connected": true,
+  "zero_indegree": 0,
+  "zero_outdegree": 0,
+  "min_indegree": 15,
+  "max_indegree": 87,
+  "min_outdegree": 15,
+  "max_outdegree": 87,
+  "self_loops": 0,
+  "two_cycle": [181110,752273],
+  "seconds": 16.4468,
+  "bridge_assignment_histogram": {
+    "0": 5018846,
+    "1": 35542514,
+    "2": 12484840,
+    "3": 5558224,
+    "4": 2671156,
+    "5": 1336880,
+    "6": 634808,
+    "8": 1212924
+  }
+}

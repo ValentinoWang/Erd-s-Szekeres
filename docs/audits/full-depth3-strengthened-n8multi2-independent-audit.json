@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "base_clauses_exact_prefix": 2451193,
+  "blocks": 2,
+  "obdd_nodes_per_block": 239976,
+  "added_variables": 479952,
+  "added_clauses_reconstructed": 2167378,
+  "formula_variables": 535056,
+  "formula_clauses": 4618571,
+  "formula_sha256": "1010f36094759e9e170ff8a2696645d1788db4d9c22996f78438d0393b771130"
+}

@@ -1,0 +1,15 @@
+{
+  "theorem": "factorized guarded-Horn reachability block is equivalent to the conjunction of all source-to-sink path blockers",
+  "small_dag_cases_tested": 529050,
+  "failures": 0,
+  "exact_structural_universe": {
+    "unconditional_sources": 31,
+    "guarded_sources": 16705,
+    "single_guard_edges": 189718,
+    "binary_guard_half_edges": 18906,
+    "guarded_sinks": 3654,
+    "nontrivial_guarded_atoms_total": 228983,
+    "including_unconditional_sources": 229014
+  },
+  "finite_convergence_statement": "A monotone shared-circuit Benders loop that adds at least one previously absent exact source/edge/sink atom from every residual path reaches the exact depth-bounded circuit after at most 228,983 guarded-atom additions."
+}

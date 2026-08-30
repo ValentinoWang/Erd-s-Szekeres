@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "states": [
+    {"index": 181110, "mask_hex": "12001004000001"},
+    {"index": 752273, "mask_hex": "c0410000200040"}
+  ],
+  "transitions": [
+    {"from": 181110, "to": 752273, "bridge_bits": 0, "n9_mask_lo_hex": "0002000400000001", "n9_mask_hi_hex": "c0410"},
+    {"from": 752273, "to": 181110, "bridge_bits": 0, "n9_mask_lo_hex": "0040000010000080", "n9_mask_hi_hex": "12001"}
+  ]
+}

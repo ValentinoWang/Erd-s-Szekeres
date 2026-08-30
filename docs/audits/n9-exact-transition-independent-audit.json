@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "algorithm": "independent direct enumeration of signotope-compatible bridge assignments with direct convex-subset tests",
+  "states": 1221504,
+  "candidate_pairs": 64460192,
+  "compatible_transitions": 59441346,
+  "exact_n9_no_convex7_models": 108068130,
+  "forward_reachable": 1221504,
+  "reverse_reachable": 1221504,
+  "strongly_connected": true,
+  "seconds": 17.4831
+}
