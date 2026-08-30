@@ -1,0 +1,8 @@
+Clean PDFLaTeX build: PASS
+Pages: 18
+Undefined citations: 0
+Undefined references: 0
+Overfull boxes: 0
+Fonts embedded: yes
+Encrypted: no
+JavaScript: no
