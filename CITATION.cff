@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this archive, cite the manuscript and the repository snapshot."
+title: "Erdős-Szekeres ES(7)=33 Research Archive"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Siyao
+repository-code: "https://github.com/ValentinoWang/Erd-s-Szekeres"
+abstract: "Auditable proof-search archive, exact local computations, extension-obstruction programs, and arXiv manuscript for the open ES(7)=33 case."
+keywords:
+  - Erdős-Szekeres problem
+  - signotopes
+  - computational combinatorics
+  - SAT
+  - computer-assisted proof
+license: "NOASSERTION"
